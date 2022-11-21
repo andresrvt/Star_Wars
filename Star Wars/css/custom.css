@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+    height:auto;
+}
+
+li{
+    padding: 10px;
+}
+
+#botones{
+    color: white;
+}
+
+#titulo{
+    text-align: center;
+}
